@@ -27,11 +27,12 @@ public class ForStatement {
             if (isPrime(i)) {
                 System.out.println(i + " is a prime number");
                 count++;
-            }
-            if (count == 3) {
-                break;
+                if (count == 3) {
+                    break;
+                }
             }
         }
+        System.out.println("The number of prime numbers found is: " + count);
     }
 
 
