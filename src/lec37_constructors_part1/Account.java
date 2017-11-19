@@ -2,17 +2,35 @@ package lec37_constructors_part1;
 
 public class Account {
 
-    private static int accountNumber;
+    private static long accountNumber;
     private static double balance;
     private static String customerName;
     private static String email;
     private static long phoneNumber;
 
-    public void setAccountNumber(int accountNumber) {
+    public Account() {
+        this(11084298346l, 12.84, "Mary Jane", "maryjane@yahoo.com", 6476281805l);
+        System.out.println("Empty constructor callling... ");
+    }
+
+    public Account(long accountNumber, double balance, String customerName, String customerEmail, long phoneNumber) {
+        System.out.println("2nd constructor calling... ");
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+        this.customerName = customerName;
+        this.email = customerEmail;
+        this.phoneNumber = phoneNumber;
+    }
+
+    public Account(String customerName, String customerEmail, long phoneNumber) {
+        this(128532108231l, 0.00, customerName, customerEmail, phoneNumber);
+    }
+
+    public void setAccountNumber(long accountNumber) {
         this.accountNumber = accountNumber;
     }
 
-    public int getAccountNumber() {
+    public long getAccountNumber() {
         return accountNumber;
     }
 

@@ -10,5 +10,8 @@ public class Main {
         account.depositFunds(40);
         account.withdrawFunds(20);
         account.depositFunds(10);
+
+        Account account1 = new Account("Peter Parker", "peterparker@gmail.com", 3878021845l);
+        System.out.println(account1.getPhoneNumber());
     }
 }
