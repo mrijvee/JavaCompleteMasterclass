@@ -1,4 +1,4 @@
-package section7_lec31;
+package lec36_classes_part2;
 
 public class Main {
 
