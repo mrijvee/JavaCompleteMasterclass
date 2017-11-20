@@ -72,7 +72,7 @@ public class Account {
     }
 
     public static void withdrawFunds(double withdrawFunds) {
-        if(balance - withdrawFunds <= 0) {
+        if(balance - withdrawFunds < 0) {
             System.out.println("Your balance is " + balance + ". Unable to withdraw!!! ");
         } else {
             balance -= withdrawFunds;
