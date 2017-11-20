@@ -1,4 +1,4 @@
-package lec39_inheritance_part1;
+package lec39_40_inheritance_part1_part2;
 
 public class Animal {
 
@@ -20,8 +20,8 @@ public class Animal {
         System.out.println("animal.eat() called ");
     }
 
-    public void move() {
-
+    public void move(int speed) {
+        System.out.println("animal.move() called. Animal is moving at " + speed + " mph");
     }
 
     public String getName() {

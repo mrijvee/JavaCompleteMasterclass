@@ -1,4 +1,4 @@
-package lec39_inheritance_part1;
+package lec39_40_inheritance_part1_part2;
 
 public class Dog extends Animal {
 
@@ -17,6 +17,27 @@ public class Dog extends Animal {
         System.out.println("dog.eat() called ");
         chew();
         super.eat();
+    }
+
+    public void walk() {
+        System.out.println("dog.walk() called ");
+        super.move(3);
+    }
+
+    public void run() {
+        System.out.println("dog.run() called ");
+        super.move(6);
+    }
+
+    private void moveLegs(int speed) {
+        System.out.println("dog.moveLegs() called ");
+    }
+
+    @Override
+    public void move(int speed) {
+        System.out.println("dog.move() called ");
+        moveLegs(5);
+        super.move(speed);
     }
 
     public Dog(String name, int size, int weight, int eyes, int legs, int tail, int teeth, String coat) {
