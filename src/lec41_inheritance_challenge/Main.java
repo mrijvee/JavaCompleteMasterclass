@@ -11,7 +11,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Tesla tesla = new Tesla();
-        tesla.increaseSpeed(30);
+        Nissan altima = new Nissan();
+        altima.increaseSpeed(30);
+        altima.increaseSpeed(-10);
     }
 }

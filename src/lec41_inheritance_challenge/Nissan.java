@@ -1,9 +1,9 @@
 package lec41_inheritance_challenge;
 
-public class Tesla extends Car {
+public class Nissan extends Car {
 
-    public Tesla () {
-        super("Tesla", "navy blue", 4976, 1964, 1435, 2, 4);
+    public Nissan() {
+        super("Nissan", "navy blue", 4976, 1964, 1435, "Altima 2.5 SR", 4,  4);
     }
 
     public void increaseSpeed(int speed) {

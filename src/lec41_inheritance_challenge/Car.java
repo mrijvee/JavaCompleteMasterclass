@@ -2,12 +2,14 @@ package lec41_inheritance_challenge;
 
 public class Car extends Vehicle {
 
+    private String model;
     private int wheels;
     private int doors;
     private char gears;
 
-    public Car(String name, String color, int length, int width, int height, int wheels, int doors) {
+    public Car(String name, String color, int length, int width, int height, String model, int wheels, int doors) {
         super("Mid-size sedan ", name, color, length, width, height);
+        this.model = model;
         this.wheels = wheels;
         this.doors = doors;
         this.gears = 'P';
