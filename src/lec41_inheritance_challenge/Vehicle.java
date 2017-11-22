@@ -22,18 +22,19 @@ public class Vehicle {
         this.direction = 0;
     }
 
-    public void steer() {
-        System.out.println("Vehicle.steer() called: Vehicle is steering at a " + direction + " angle.");
+    public void steer(int direction) {
+        System.out.println("Vehicle.steer() called: Vehicle is steering at a " + direction + " degree angle.");
+        this.direction = direction;
     }
 
     public void drive(int speed, int direction) {
         this.speed = speed;
         this.direction = direction;
-        System.out.println("Vehicle.move() called: Vehicle is moving at " + speed + " mph at a " + direction + " angle.");
+        System.out.println("Vehicle.drive() called: Vehicle is moving at " + speed + " mph at a " + direction + " degree angle.");
     }
 
     public void stop() {
-        this.speed = 0;
+        System.out.println("Car is parked ");
     }
 
     public String getType() {

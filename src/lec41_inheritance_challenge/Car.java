@@ -22,6 +22,6 @@ public class Car extends Vehicle {
 
     public void drive(int speed, int direction) {
         super.drive(speed, direction);
-        System.out.println("Car.move() called: Car is moving at " + speed + " mph at " + direction + " angle.");
+        System.out.println("Car.drive() called: Car is moving at " + speed + " mph at a " + direction + " degree angle.");
     }
 }

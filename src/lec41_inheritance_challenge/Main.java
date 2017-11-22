@@ -12,7 +12,8 @@ public class Main {
     public static void main(String[] args) {
 
         Nissan altima = new Nissan();
+        altima.steer(45);
         altima.increaseSpeed(30);
-        altima.increaseSpeed(-10);
+        altima.increaseSpeed(99);
     }
 }
