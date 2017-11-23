@@ -1,4 +1,4 @@
-package lec41_inheritance_challenge;
+package lec41_42_inheritance_challenge_part1_part2;
 
 public class Nissan extends Car {
 
@@ -12,7 +12,8 @@ public class Nissan extends Car {
 
         if (addSpeed == 0) {
             stop();
-        } else if (addSpeed > 0 && addSpeed <= maxSpeed) {
+        }
+        else if (addSpeed > 0 && addSpeed <= maxSpeed) {
             changeGear('D');
         } else if (addSpeed < 0){
             System.out.println("Speed not recognized");

@@ -1,4 +1,4 @@
-package lec41_inheritance_challenge;
+package lec41_42_inheritance_challenge_part1_part2;
 
 public class Car extends Vehicle {
 
