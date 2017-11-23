@@ -18,10 +18,10 @@ public class Door {
         System.out.println("Do you want to open the door or keep it closed?");
         open = scanner.nextLine();
         if (open.equalsIgnoreCase("open")) {
-            System.out.println("The door is now opened ");
+            System.out.println("The door is now opened!!!");
         }
         else {
-            System.out.println("This door will remain closed as you wish");
+            System.out.println("The door will remain closed as you wish...");
         }
     }
 }

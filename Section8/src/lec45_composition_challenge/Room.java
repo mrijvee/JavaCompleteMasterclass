@@ -28,23 +28,23 @@ public class Room {
 
     public void roomComponents() {
         door.openCloseDoor();
-        chair.getHowManyChairs();
-        closet.getDepth();
-        closet.getWidth();
+        System.out.println("This room has " + chair.getHowManyChairs() + " chairs.");
+        closet.getSize();
         ceiling.ceilingComponents();
         wardrobe.getSize();
+        bed.bedComponents();
         fixMessyRoom();
     }
 
     private void fixMessyRoom() {
         String answer = "";
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Your room seems a bit messy. Do you want to clean it?");
+        System.out.println("Your room however seems a bit messy. Do you want to clean it?");
         answer = scanner.nextLine();
         if (answer.equalsIgnoreCase("yes") || answer.equalsIgnoreCase("sure")) {
-            System.out.println("Your room is now clean and clear");
+            System.out.println("Your room is now clean and clear.");
         } else {
-            System.out.println("Sorry to hear that. We recommend cleaning your bed every morning to keep the mites away");
+            System.out.println("Sorry to hear that. We recommend cleaning your bed every morning to keep the mites away.");
         }
     }
 }

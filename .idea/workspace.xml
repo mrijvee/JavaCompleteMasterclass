@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f5c8410-8e53-4269-8803-8e8c46324e15" name="Default" comment="" />
+    <list default="true" id="1f5c8410-8e53-4269-8803-8e8c46324e15" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Bed.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Bed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Ceiling.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Ceiling.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java" afterPath="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Room.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            <state relative-caret-position="966">
+              <caret line="46" column="120" lean-forward="false" selection-start-line="46" selection-start-column="120" selection-end-line="46" selection-end-column="120" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java">
+      <file leaf-file-name="Door.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="272">
+              <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -35,8 +45,18 @@
       <file leaf-file-name="Wardrobe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+            <state relative-caret-position="315">
+              <caret line="15" column="146" lean-forward="false" selection-start-line="15" selection-start-column="146" selection-end-line="15" selection-end-column="146" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -45,8 +65,8 @@
       <file leaf-file-name="Bed.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Bed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="321">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -55,32 +75,9 @@
       <file leaf-file-name="Ceiling.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Ceiling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+            <state relative-caret-position="273">
+              <caret line="13" column="108" lean-forward="false" selection-start-line="13" selection-start-column="108" selection-end-line="13" selection-end-column="108" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Closet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="82" lean-forward="false" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -142,14 +139,14 @@
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Windows.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closets.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec44_composition/Main.java" />
-        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java" />
+        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java" />
+        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java" />
+        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Bed.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Ceiling.java" />
-        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java" />
         <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java" />
-        <option value="$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java" />
       </list>
     </option>
   </component>
@@ -177,8 +174,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,7 +207,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -509,20 +506,18 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.Employee" />
       <item index="2" class="java.lang.String" itemvalue="Application.Main (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
         <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +536,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -551,7 +545,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29495615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -754,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="112" lean-forward="false" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="112" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,24 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1029">
           <caret line="63" column="29" lean-forward="false" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-          <folding>
-            <element signature="e#1068#1069#0" expanded="false" />
-            <element signature="e#1120#1121#0" expanded="false" />
-            <element signature="e#1151#1152#0" expanded="false" />
-            <element signature="e#1178#1179#0" expanded="false" />
-            <element signature="e#1209#1210#0" expanded="false" />
-            <element signature="e#1236#1237#0" expanded="false" />
-            <element signature="e#1266#1267#0" expanded="false" />
-            <element signature="e#1295#1296#0" expanded="false" />
-            <element signature="e#1324#1325#0" expanded="false" />
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1382#1383#0" expanded="false" />
-            <element signature="e#1411#1412#0" expanded="false" />
-            <element signature="e#1440#1441#0" expanded="false" />
-            <element signature="e#1468#1469#0" expanded="false" />
-            <element signature="e#1501#1502#0" expanded="false" />
-            <element signature="e#1533#1534#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,87 +769,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Beds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Furniture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/House.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Windows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Doors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Beds.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Furniture.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/House.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Windows.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobes.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chairs.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Doors.java" />
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closets.java" />
     <entry file="file://$PROJECT_DIR$/Section8/src/lec44_composition/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,9 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="110" lean-forward="false" selection-start-line="7" selection-start-column="110" selection-end-line="7" selection-end-column="110" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="74" lean-forward="false" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,9 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,68 +826,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="50" lean-forward="true" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="273">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="120" lean-forward="false" selection-start-line="46" selection-start-column="120" selection-end-line="46" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Bed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="67" lean-forward="false" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        <state relative-caret-position="321">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Ceiling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        <state relative-caret-position="273">
+          <caret line="13" column="108" lean-forward="false" selection-start-line="13" selection-start-column="108" selection-end-line="13" selection-end-column="108" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Closet.java">
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Wardrobe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="82" lean-forward="false" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
+        <state relative-caret-position="315">
+          <caret line="15" column="146" lean-forward="false" selection-start-line="15" selection-start-column="146" selection-end-line="15" selection-end-column="146" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Chair.java">
+    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Section8/src/lec45_composition_challenge/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        <state relative-caret-position="546">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>

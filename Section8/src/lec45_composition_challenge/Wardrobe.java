@@ -13,8 +13,6 @@ public class Wardrobe {
     }
 
     public void getSize() {
-        System.out.println("The height of the wardrobe is: " + height + " ft.");
-        System.out.println("The depth of the wardrobe is: " + depth + " ft.");
-        System.out.println("The width of the wardrobe is: " + width + " ft.");
+        System.out.println("The height of the wardrobe is: " + height + " ft., the depth is " + depth + "ft. and the width is " + width + " ft.");
     }
 }

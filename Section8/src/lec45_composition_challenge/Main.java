@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         Wardrobe wardrobe = new Wardrobe(6, 2, 4);
-        Bed bed = new Bed(2, 4, 6, "Bunk Bed");
+        Bed bed = new Bed("Bunk-bed", 2,4, 6);
         Chair chair = new Chair(2);
         Door door = new Door(7, 4);
         Closet closet = new Closet(5, 8);

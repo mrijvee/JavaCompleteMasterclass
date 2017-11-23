@@ -11,7 +11,6 @@ public class Ceiling {
     }
 
     public void ceilingComponents() {
-        System.out.println("The height of the ceiling is: " + height + " ft.");
-        System.out.println("The color of the ceiling is: " + color);
+        System.out.println("The height of the ceiling is: " + height + " ft. and its color is " + color + ".");
     }
 }

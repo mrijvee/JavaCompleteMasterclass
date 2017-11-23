@@ -9,7 +9,6 @@ public class Chair {
     }
 
     public int getHowManyChairs() {
-        System.out.println("This room has " + howManyChairs + " chairs");
         return howManyChairs;
     }
 }
